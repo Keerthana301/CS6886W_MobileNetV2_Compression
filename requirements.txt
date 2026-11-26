@@ -1,0 +1,9 @@
+# PyTorch build should match the CUDA runtime. Tested recorded versions:
+torch==2.14.1
+torchvision==0.29.1
+numpy
+pandas
+matplotlib
+wandb
+plotly
+wandb-workspaces
